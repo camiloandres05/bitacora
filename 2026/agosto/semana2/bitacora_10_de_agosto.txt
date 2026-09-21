@@ -1,2 +1,3 @@
 id:1,fecha:10/08/2026 1:53 p.m, autoria:Michael miranda avila,actividad:Se hizo una lista de chequeo de transferencia,impedimiento:sin impedimiento,plan de accion:aprender a identificar errores en bitacora.
-id:2,fecha:10/08/2026 2:30 p.m, autoria:Michael miranda avila,actividad,Se hizo una auditoria en compañía,impedimiento:Sin impedimiento,plan de accion:mejorar la identificacion de errores en las bitacoras
+id:2,fecha:10/08/2026 2:30 p.m, autoria:Michael miranda avila,actividad:Se hizo una auditoria en compañía,impedimiento:Sin impedimiento,plan de accion:mejorar la identificacion de errores en las bitacoras
+id:3,fecha:10/08/2026 4:30 p.m, autoria:Michael miranda avila,actividad:Se realizo un informe final,impedimiento:sin impedimiento,plan de accion:revisar y mejorar la presentacion del informe final
