@@ -1,0 +1,1 @@
+id:1,fecha:21/08/2026 2:38 p.m,auditoria:Michael miranda avila,actividad:Se realizo un juego en kahoot, donde se ponia a prueba los conocimientos previos,impédimientos:Dificultad en los juegos por falta de conocimientos previos,plan de accion:aprender los conceptos visto en el juego
