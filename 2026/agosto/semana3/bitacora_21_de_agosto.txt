@@ -1,1 +1,2 @@
-id:1,fecha:21/08/2026 2:38 p.m,auditoria:Michael miranda avila,actividad:Se realizo un juego en kahoot, donde se ponia a prueba los conocimientos previos,impédimientos:Dificultad en los juegos por falta de conocimientos previos,plan de accion:aprender los conceptos visto en el juego
+id:1,fecha:21/08/2026 1:38 p.m,auditoria:Michael miranda avila,actividad:Se realizo un juego en kahoot, donde se ponia a prueba los conocimientos previos,impédimientos:Dificultad en los juegos por falta de conocimientos previos,plan de accion:aprender los conceptos visto en el juego
+id:2,fecha:21/08/2026 2:40 p.m,auditoria:Michaeel miranda avila,actividad:El compañero carlos leyó la guia de transferencia de conocimiento,impedimientos:sin impedimientos,plan de accion:no aplica
