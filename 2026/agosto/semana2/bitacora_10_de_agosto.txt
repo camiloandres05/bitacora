@@ -1,0 +1,1 @@
+id:1,fecha:10/08/2026 1:53 p.m, autoria:Michael miranda avila,actividad:Se hizo una lista de chequeo de transferencia,impedimiento:sin impedimiento,plan de accion:aprender a identificar errores en bitacora.
