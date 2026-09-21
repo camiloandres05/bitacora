@@ -1,1 +1,2 @@
 1. 18/09/2026  1:40 p.m auditoria: sharon marney actividad: Pasó un grupo y comenzaron a mirar como habian hecho el trabajo de las bitacoras, impedimentos: sin impedimientos operativos, plan de mejora: No aplica
+2. 18/09/2026  2:30 p.m auditoria: sharon marney actividad: Pasó nuestro grupo y comenzamos a mirar como habiamos hecho el trabajo de las bitacoras, impedimentos: hubo unos problemas al manejar los commits y el como llamar las ramas, plan de mejora: mejorar la comunicación grupal
