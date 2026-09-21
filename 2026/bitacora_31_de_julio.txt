@@ -1,4 +1,4 @@
-id:1,fecha: 31/07/2026 hora: 13:00-14:33,autoría: Maicol Miranda Avila,Actividad:Reflexión inicial sobre transbordador,Impedimentos:sin impedimento,Plan de acción: Hacer el comunicado oficial sobre las fallas del tranbordador.
-
+id:1,fecha: 31/07/2026 hora: 1:15 p.m,autoría: Maicol Miranda Avila,Actividad:Reflexión inicial sobre transbordador,Impedimentos:sin impedimento,Plan de acción: Hacer el comunicado oficial sobre las fallas del tranbordador.
+id:2,fecha: 31/07/2026 hora: 2:25 p.m,auditoria:Maicol Miranda Avila,Actividad:Se hizo una matriz mediante el video del transbordador,Impedimiento: Sin impedimiento,Plan de accion:Q los analistas tenian q hacer un trabajo correctamente para prevenir las malas inversiones y crear bien el software sin error alguno y pues q habia q mostrar evidencias para q no hubiera un mal inconveniente.
 
 
