@@ -1,0 +1,3 @@
+camilo andres ardila delgado 
+este archivo .txt esta destinado a entender el proyecto de las bitacorad llevando un prden cronologico sobre todas las cosas que se vieron y veran en clase en un futuro proximo 
+haciendo mas facil e interactivo buscar una bitacora de un dia en especifivo.
